@@ -1,0 +1,7 @@
+pandas
+numpy
+sqlalchemy
+kaggle
+dotenv
+pymysql
+cryptography
